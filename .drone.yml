@@ -1,0 +1,5 @@
+pipeline:
+  build:
+    image: asimlqt/php7-fpm
+    commands:
+      - ls
